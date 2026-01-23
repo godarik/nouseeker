@@ -7,7 +7,7 @@ val godarikx by developer {
     contacts {
         email = "godarikx@gmail.com"
         telegram = "t.me/godarikx"
-        linkedin = "linkedin.com/in/godarik"
+        linkedin = "linkedin.com/in/godarikx"
     }
 }
 ```
