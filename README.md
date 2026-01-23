@@ -1,5 +1,5 @@
 ```kotlin
-val godarik by developer {
+val godarikx by developer {
     name = "Aidar"
     surname = "Almukhametov"
     description = "Software Engineer"
@@ -15,29 +15,29 @@ val godarik by developer {
 <table>
     <tr>
         <td>
-            <a href="https://github.com/godarik" title="Go to Source">
+            <a href="https://github.com/godarikx" title="Go to Source">
                 <img alt="streaks" height=200 width=400
-                     src="https://nirzak-streak-stats.vercel.app/?user=godarik&theme=react&border=61dafb&hide_border=true"/>
+                     src="https://nirzak-streak-stats.vercel.app/?user=godarikx&theme=react&border=61dafb&hide_border=true"/>
             </a>
         </td>
         <td>
-            <a href="https://github.com/godarik" title="Go to Source">
+            <a href="https://github.com/godarikx" title="Go to Source">
                 <img alt="stars" width=450
-                     src="https://github-readme-stats.vercel.app/api?username=godarik&show_icons=true&theme=react&border_color=61dafb&hide_border=true&hide_title=true"/>
+                     src="https://github-readme-stats.vercel.app/api?username=godarikx&show_icons=true&theme=react&border_color=61dafb&hide_border=true&hide_title=true"/>
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/godarik" title="Go to Source">
+            <a href="https://github.com/godarikx" title="Go to Source">
                 <img alt="languages" height=200 width=400 align="center"
-                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=godarik&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=godarikx&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
             </a>
         </td>
         <td>
-            <a href="https://leetcode.com/u/godarik" title="Go to Source">
+            <a href="https://leetcode.com/u/godarikx" title="Go to Source">
                 <img alt="contributions" height=200 width=400 align="center"
-                     src="https://leetcard.jacoblin.cool/godarik?theme=nord"/>
+                     src="https://leetcard.jacoblin.cool/godarikx?theme=nord"/>
             </a>
         </td>
     </tr>
@@ -46,9 +46,9 @@ val godarik by developer {
 
 [//]: # (        <td colspan="2">)
 
-[//]: # (            <a href="https://github.com/godarik" title="Go to Source">)
+[//]: # (            <a href="https://github.com/godarikx" title="Go to Source">)
 
-[//]: # (                <img src="https://github-readme-activity-graph.vercel.app/graph?username=godarik&theme=react-dark&bg_color=20232a&hide_border=true&grid=true&days=31")
+[//]: # (                <img src="https://github-readme-activity-graph.vercel.app/graph?username=godarikx&theme=react-dark&bg_color=20232a&hide_border=true&grid=true&days=31")
 
 [//]: # (                     width="100%"/>)
 
